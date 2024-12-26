@@ -1,6 +1,6 @@
 # 건강
 
-TV로 보면서 하는데, 익숙해지면 TV 소리는 줄이고 핸드폰에서 팟캐스트로 뉴스나 슈카월드 같은 거 들으면서 함.
+TV로 보면서 하는데, 익숙해지면 TV 소리는 줄이고 핸드폰에서 [팟캐스트](podcast.md)로 뉴스나 슈카월드 같은 거 들으면서 함.
 
 ## 1. 홈트. 30분간 걷기(30분)
 <a href='https://youtu.be/aGOvDH3UY2A?si=npDIeJXAVWaNutId' target="_blank"><img src='img/20241226223121.png'></a>
