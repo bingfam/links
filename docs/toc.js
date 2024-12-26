@@ -8,7 +8,7 @@ class MDBookSidebarScrollbox extends HTMLElement {
         super();
     }
     connectedCallback() {
-        this.innerHTML = '<ol class="chapter"><li class="chapter-item expanded "><a href="studywithme.html"><strong aria-hidden="true">1.</strong> 공부할 때 켜 놓는</a></li><li class="chapter-item expanded "><a href="words.html"><strong aria-hidden="true">2.</strong> 어휘력</a></li><li class="chapter-item expanded "><a href="knowledge.html"><strong aria-hidden="true">3.</strong> 지식</a></li><li class="chapter-item expanded "><a href="quiz.html"><strong aria-hidden="true">4.</strong> 퀴즈</a></li><li class="chapter-item expanded "><a href="english.html"><strong aria-hidden="true">5.</strong> 영어</a></li></ol>';
+        this.innerHTML = '<ol class="chapter"><li class="chapter-item expanded "><a href="studywithme.html"><strong aria-hidden="true">1.</strong> 공부할 때 켜 놓는</a></li><li class="chapter-item expanded "><a href="words.html"><strong aria-hidden="true">2.</strong> 어휘력</a></li><li class="chapter-item expanded "><a href="knowledge.html"><strong aria-hidden="true">3.</strong> 지식</a></li><li class="chapter-item expanded "><a href="quiz.html"><strong aria-hidden="true">4.</strong> 퀴즈</a></li><li class="chapter-item expanded "><a href="english.html"><strong aria-hidden="true">5.</strong> 영어</a></li><li class="chapter-item expanded "><a href="health.html"><strong aria-hidden="true">6.</strong> 건강</a></li></ol>';
         // Set the current, active page, and reveal it if it's hidden
         let current_page = document.location.href.toString();
         if (current_page.endsWith("/")) {
